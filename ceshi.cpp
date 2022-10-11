@@ -3,7 +3,7 @@
 #include<iomanip>
 using namespace std;
 int main() {
-
+	int a, b, c;
 	cin >> a;
 	c = a % 100;
 	b = a / 100;
